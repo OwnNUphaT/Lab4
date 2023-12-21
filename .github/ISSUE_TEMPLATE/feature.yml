@@ -13,8 +13,8 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contract Details
-      labels: Please provide contact details. Also, tell us what you expected to happen.
+      description: Please provide contact details. Also, tell us what you expected to happen.
+      label: Contract Details.
       placeholder: e.g. Anuphat Manotam
     validations:
       required: false
