@@ -14,7 +14,7 @@ body:
     id: contact
     attributes:
       label: Contract Details
-      label: Please provide contact details. Also, tell us what you expected to happen.
+      labels: Please provide contact details. Also, tell us what you expected to happen.
       placeholder: e.g. Anuphat Manotam
     validations:
       required: false
