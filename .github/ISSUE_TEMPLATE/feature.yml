@@ -10,7 +10,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: input
+  - type: textarea
     id: contact
     attributes:
       description: Please provide contact details. Also, tell us what you expected to happen.
